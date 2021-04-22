@@ -16,7 +16,7 @@ export const products = [
     name: 'Phone Mini',
     price: 699,
     description: 'A great phone with one of the best cameras',
-    heading1: 'サンプルテキスト1',
+    heading1: 'サンプルテキストだ1',
     heading2: 'サンプルテキスト2',
     heading3: 'サンプルテキスト3',
     headingText1: 'サンプルテキスト　サンプルテキスト　サンプルテキスト　サンプルテキスト',
